@@ -2,11 +2,9 @@
 
 Just some femboy having fun coding stuff :3
 <br>
-Usually goofing around with C/C++ on Linux
+Usually goofing around with C/C++ on Linux, no peeking at my code tho >:C
 
-Working on a silly discord bot with [D++ Library](https://dpp.dev/index.html) rn :P
-<br>
-No peeking at my code tho >:c
+mmm~ kittiess~
 
 ---
 
