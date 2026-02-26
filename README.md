@@ -24,3 +24,7 @@ mmm~ kittiess~
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,nodejs,discordjs,regex,postgres,mongodb,c,cpp,cs,dotnet,java,powershell,bash&theme=dark&perline=10"/>
 
 ###### _Pleaseeee check out the [source](https://github.com/tandpfun/skill-icons#readme) of these cool little images!_ <br> _ALSO! This doesnt mean im actually good at all those, i just worked with all of em atleast a few times :3_
+
+---
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Only%20friends%20can%20touch%20your%20private%20parts.&author=Some%20guy%20talking%20about%20c%2B%2B%20friends)](https://github.com/piyushsuthar/github-readme-quotes)
