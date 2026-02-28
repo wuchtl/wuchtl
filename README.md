@@ -6,7 +6,9 @@ And no, i dont care about all that pronoun stuff, call me what you want :P
 
 Usually goofing around on Linux and hopping between projects, no peeking at my code tho >:C
 
-mmm~ kittiess~
+Finally switched from Windows 11 to CachyOS as daily :3
+
+> ###### mmm~ kittiess~
 
 # Funky stats~!
 
@@ -19,7 +21,7 @@ mmm~ kittiess~
 
 # What i've used so far? A lot >.<
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,arch&theme=dark"/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,nodejs,discordjs,regex,postgres,mongodb,c,cpp,cs,dotnet,java,powershell,bash&theme=dark&perline=10"/>
 
