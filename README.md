@@ -29,4 +29,4 @@ Finally switched from Windows 11 to CachyOS as daily :3
 
 ---
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Only%20friends%20can%20touch%20your%20private%20parts.&author=Some%20guy%20talking%20about%20c%2B%2B%20friends)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Only%20friends%20can%20touch%20your%20private%20parts.&author=Some%20guy%20talking%20about%20the%20c%2B%2B%20friend%20keyword)](https://github.com/piyushsuthar/github-readme-quotes)
