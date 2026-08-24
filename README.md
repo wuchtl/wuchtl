@@ -1,29 +1,30 @@
 # Haiii hewwooo!! 👋 
 
-Just some femboy having fun coding stuff :3
+Just some guy having fun coding stuff :3
 <br>
-And no, i dont care about all that pronoun stuff, call me what you want :P
-
 Usually goofing around on Linux and hopping between projects, no peeking at my code tho :>
 
 CachyOS as daily :P
 
-*mmm~ kittiess~*
+My own website~ [wuchtl.dev](https://wuchtl.dev)
+
+[![Ko-fi](https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge)](https://ko-fi.com/wuchtl)
+[![Patreon](https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge)](https://patreon.com/c/wuchtl)
+
+###### *mmm~ kittiess~*
 
 # Funky stats~!
 
-<a href="https://github.com/wuchtl/github-stats#gh-dark-mode-only">
-  <img src="https://github.com/wuchtl/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://github.com/wuchtl/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
+![GitHub Stats Overview](https://github.com/wuchtl/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub Stats Languages](https://github.com/wuchtl/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 > ###### _Check out the [Original](https://github.com/jstrieb/github-stats)!_
 
 # What i've used so far? A lot >.<
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,linux,arch&theme=dark"/>
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,angular,nodejs,discordjs,regex,postgres,mongodb,c,cpp,cs,dotnet,java,powershell,bash&theme=dark&perline=10"/>
+![SkillIcons Software/OS](https://skillicons.dev/icons?i=vscode,visualstudio,linux,arch&theme=dark)
+<br>
+![SkillIcons Languages](https://skillicons.dev/icons?i=js,ts,html,css,angular,nodejs,discordjs,regex,postgres,mongodb,c,cpp,cs,dotnet,java,powershell,bash&theme=dark&perline=10)
 
 > ###### _Pleaseeee check out the [source](https://github.com/tandpfun/skill-icons#readme) of these cool little images!_ <br> _ALSO! This doesnt mean im actually good at all those, i just worked with all of em atleast a few times :3_
 
