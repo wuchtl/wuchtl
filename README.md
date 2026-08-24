@@ -9,7 +9,8 @@ CachyOS as daily :P
 My own website~ [wuchtl.dev](https://wuchtl.dev)
 
 [![Ko-fi](https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge)](https://ko-fi.com/wuchtl)
-[![Patreon](https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge)](https://patreon.com/c/wuchtl)
+[![Patreon](https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge)](https://patreon.com/c/wuchtl)
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/fem.wuch)
 
 ###### *mmm~ kittiess~*
 
